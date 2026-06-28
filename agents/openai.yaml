@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concept Structure Parser"
+  short_description: "Parse concepts into definitions, actions, and qualifiers."
+  default_prompt: "Use $concept-structure-parser to parse these course materials into core definitions, action relations, qualifiers, examples, and confusion points."
